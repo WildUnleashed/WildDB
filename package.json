@@ -1,0 +1,15 @@
+{
+  "name": "wildb",
+  "version": "1.0.0",
+  "description": "A database using simple and easy-to-use files, made for beginners.",
+  "main": "index.js",
+  "keywords": [
+    "wild", "wildb", "wilddb", "database", "storing", "db", "values", "quick", "easy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WildUnleashed/WildDB.git"
+  },
+  "author": "OutroNinja (https://github.com/outroninja)",
+  "license": "ISC"
+}
